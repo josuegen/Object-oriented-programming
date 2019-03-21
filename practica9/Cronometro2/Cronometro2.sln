@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cronometro2", "Cronometro2\Cronometro2.csproj", "{169F8618-909A-48E1-94E7-4A67C9A96542}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169F8618-909A-48E1-94E7-4A67C9A96542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169F8618-909A-48E1-94E7-4A67C9A96542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169F8618-909A-48E1-94E7-4A67C9A96542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169F8618-909A-48E1-94E7-4A67C9A96542}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06FAE17-309F-4CFD-A0E4-6CB2E80BA34F}
+	EndGlobalSection
+EndGlobal
